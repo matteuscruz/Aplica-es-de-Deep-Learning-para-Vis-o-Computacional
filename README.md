@@ -1,6 +1,6 @@
 ### Aplicações de Deep Learning para Visão Computacional
 
-Plataforma: Coursera
+Plataforma: Coursera \\
 Instituição: University of Colorado Boulder
 Nível: Intermediário
 Concluído: EM PROGRESSO
